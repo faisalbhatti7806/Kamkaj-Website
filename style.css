@@ -1,0 +1,133 @@
+#body {
+    background-color: rgb(236, 211, 245);
+}
+
+#nav {
+    text-align: end;
+}
+
+#icon {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    font-size: x-large;
+    padding-right: 20px;
+    border-radius: 50%;
+    background-color: rgb(238, 44, 44);
+    color: aliceblue;
+}
+
+.inpu {
+    width: 300px;
+    border-radius: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 8px;
+    padding-left: 10px;
+margin-left: 10px;
+}
+
+.input {
+    margin-left: 10px;
+    width: 300px;
+    border-radius: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: rgb(130, 130, 240);
+    background-color: rgb(252, 198, 22);
+}
+
+#link {
+    padding-left: 20px;
+    font-size: x-large;
+}
+
+#link1 {
+    color: rgb(240, 113, 9);
+}
+
+#link2 {
+    color: rgb(92, 80, 89);
+}
+
+#firstdiv {
+    margin-top: 80px;
+}
+
+.h1 {
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+
+.para1 {
+    padding-top: 20px;
+}
+
+#bor {
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 20px;
+    color: aliceblue;
+}
+
+#sel {
+    margin-left: -28px;
+}
+
+#aa {
+    border-radius: 20px;
+    background-color: rgb(204, 236, 236);
+}
+
+#hw {
+    height: 100px;
+    width: 110px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+#abc {
+    height: 200px;
+    width: 180px;
+}
+
+#clr {
+    color: rgb(82, 58, 87);
+}
+
+#hp1 {
+    padding-top: 95px;
+}
+
+#ro {
+    height: 240px;
+    border-radius: 20px;
+}
+
+#bb {
+    padding-top: 50px;
+    padding-bottom: 5px;
+    font-size: larger;
+}
+
+#cc {
+    padding-bottom: 5px;
+    font-size: x-large;
+}
+
+#dd {
+    height: 50px;
+    width: 40px;
+}
+#im{
+  border-radius: 20px;  
+}
+#h2p{
+    margin-top: 140px;
+}
+#bar{
+    margin-top: 120px;
+}
